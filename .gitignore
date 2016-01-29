@@ -1,0 +1,5 @@
+# for node
+.eslintcache
+node_modules/
+dist/
+npm-debug.log
